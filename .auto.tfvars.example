@@ -1,0 +1,9 @@
+project_id      = "projectA"
+user            = "userB"
+folder_id       = "000000000000"
+region          = "us-east-1" #default
+zone            = "us-east1-b" #default
+labels          = {
+    "foo"   = "bar"
+    "color" = "blue"
+}

@@ -1,0 +1,11 @@
+.idea
+.terraform
+.env*
+!.env.example
+.terraform.lock.hcl
+*.crt
+*.key
+*.tfstate*
+*.tfvars
+*kubeconfig*
+backend.tf
